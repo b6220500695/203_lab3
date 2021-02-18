@@ -8,3 +8,13 @@ int funtion (int k){
 	}
 	return 1;
 }
+int main(){
+	int n,min,max,j;
+	scanf("%d",&n);
+	for(j=n;;j++){
+		if(funtion(j)){
+			max=j;
+			break;
+		}
+	}
+}
