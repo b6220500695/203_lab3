@@ -17,5 +17,6 @@ int main()
       }
    }
    printf("%d %d",prime_t+1,t[prime_t]);
+return 0;
 }
 
