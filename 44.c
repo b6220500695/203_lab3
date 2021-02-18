@@ -18,3 +18,11 @@ int main(){
 		}
 	}
 }
+min=max;
+		for(j=n;j>1;j--){
+		if(funtion(j)){
+			min=j;
+			break;
+		}
+	}
+
