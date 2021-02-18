@@ -29,3 +29,4 @@ if(n-min>max-n){
 	}else
 		printf("%d",min);
 }
+
