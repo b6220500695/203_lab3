@@ -17,5 +17,5 @@ int main ()
    i++;
 }
 printf("%d",j);
-return0;
+return 0;
 }
