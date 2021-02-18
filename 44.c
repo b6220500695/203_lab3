@@ -17,16 +17,12 @@ int main(){
 			break;
 		}
 	}
-   min=max;
+}
+min=max;
 		for(j=n;j>1;j--){
 		if(funtion(j)){
 			min=j;
 			break;
 		}
 	}
-if(n-min>max-n){
-		printf("%d",max);
-	}else
-		printf("%d",min);
-}
 
