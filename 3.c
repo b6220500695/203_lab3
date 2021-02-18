@@ -12,7 +12,7 @@ int main ()
       while(k%i==0)
    {
       printf("%d\n",i);
-      k /= i;
+      k = k/i;
    }
    i++;
 }
